@@ -17,6 +17,22 @@ body {
   background-size: cover;
   background-position: center;
   font-family: 'Georgia', serif;
+  .galeria {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.galeria img {
+  width: 200px;
+  border-radius: 15px;
+  transition: transform 0.3s;
+}
+
+.galeria img:hover {
+  transform: scale(1.05);
+}
   color: white;
   text-align: center;
   padding: 40px;
