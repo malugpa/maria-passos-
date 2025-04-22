@@ -12,3 +12,12 @@ img {
   margin-top: 20px;
 } 
 adicionando estilo
+body {
+  background-image: url('fundo.jpg');
+  background-size: cover;
+  background-position: center;
+  font-family: 'Georgia', serif;
+  color: white;
+  text-align: center;
+  padding: 40px;
+}
