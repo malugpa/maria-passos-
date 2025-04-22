@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<!-- saved from url=(0069)https://monkeybuzz.com.br/resenhas/albuns/lana-del-rey-lust-for-life/ -->
+<html lang="pt-BR" class="js"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Monkeybuzz é a sua nova fonte de música. Experimentamos de tudo pois o que importa para nós é qualidade e originalidade.">
+	<meta name="keywords" content="">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+		<script type="text/javascript" async="" src="./fundo_files/analytics.js.download"></script><script type="text/javascript" async="" src="./fundo_files/js"></script><script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>Lana Del Rey – Lust For Life – Monkeybuzz</title>
+		    <!-- PVC Template -->
+    <script type="text/template" id="pvc-stats-view-template">
+    <i class="pvc-stats-icon medium" aria-hidden="true"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="chart-bar" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-chart-bar fa-w-16 fa-2x"><path fill="currentColor" d="M396.8 352h22.4c6.4 0 12.8-6.4 12.8-12.8V108.8c0-6.4-6.4-12.8-12.8-12.8h-22.4c-6.4 0-12.8 6.4-12.8 12.8v230.4c0 6.4 6.4 12.8 12.8 12.8zm-192 0h22.4c6.4 0 12.8-6.4 12.8-12.8V140.8c0-6.4-6.4-12.8-12.8-12.8h-22.4c-6.4 0-12.8 6.4-12.8 12.8v198.4c0 6.4 6.4 12.8 12.8 12.8zm96 0h22.4c6.4 0 12.8-6.4 12.8-12.8V204.8c0-6.4-6.4-12.8-12.8-12.8h-22.4c-6.4 0-12.8 6.4-12.8 12.8v134.4c0 6.4 6.4 12.8 12.8 12.8zM496 400H48V80c0-8.84-7.16-16-16-16H16C7.16 64 0 71.16 0 80v336c0 17.67 14.33 32 32 32h464c8.84 0 16-7.16 16-16v-16c0-8.84-7.16-16-16-16zm-387.2-48h22.4c6.4 0 12.8-6.4 12.8-12.8v-70.4c0-6.4-6.4-12.8-12.8-12.8h-22.4c-6.4 0-12.8 6.4-12.8 12.8v70.4c0 6.4 6.4 12.8 12.8 12.8z" class=""></path></svg></i> 
+	 <%= total_view %> total views	<% if ( today_view > 0 ) { %>
+		<span class="views_today">,  <%= today_view %> views today</span>
+	<% } %>
+	</span>
+	</script>
+		    <meta name="robots" content="max-image-preview:large">
+<link rel="dns-prefetch" href="https://secure.gravatar.com/">
+<link rel="dns-prefetch" href="https://stats.wp.com/">
+<link rel="dns-prefetch" href="https://v0.wordpress.com/">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com/">
+<link rel="alternate" type="application/rss+xml" title="Feed para Monkeybuzz »" href="https://monkeybuzz.com.br/feed/">
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Monkeybuzz »" href="https://monkeybuzz.com.br/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Feed de Monkeybuzz » Story" href="https://monkeybuzz.com.br/web-stories/feed/"><script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/monkeybuzz.com.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.6.1.1695068643"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<link rel="stylesheet" id="twentysixteen-jetpack-css" href="./fundo_files/twentysixteen.css" media="all">
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="./fundo_files/style.min.css" media="all">
+<style id="wp-block-library-theme-inline-css">
+.wp-block-audio :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio :where(figcaption){color:#ffffffa6}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed :where(figcaption){color:#ffffffa6}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:#ffffffa6}:root :where(.wp-block-image figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme :root :where(.wp-block-image figcaption){color:#ffffffa6}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table :where(figcaption){color:#ffffffa6}.wp-block-video :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video :where(figcaption){color:#ffffffa6}.wp-block-video{margin:0 0 1em}:root :where(.wp-block-template-part.has-background){margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<link rel="stylesheet" id="mediaelement-css" href="./fundo_files/mediaelementplayer-legacy.min.css" media="all">
+<link rel="stylesheet" id="wp-mediaelement-css" href="./fundo_files/wp-mediaelement.min.css" media="all">
+<style id="jetpack-sharing-buttons-style-inline-css">
+.jetpack-sharing-buttons__services-list{display:flex;flex-direction:row;flex-wrap:wrap;gap:0;list-style-type:none;margin:5px;padding:0}.jetpack-sharing-buttons__services-list.has-small-icon-size{font-size:12px}.jetpack-sharing-buttons__services-list.has-normal-icon-size{font-size:16px}.jetpack-sharing-buttons__services-list.has-large-icon-size{font-size:24px}.jetpack-sharing-buttons__services-list.has-huge-icon-size{font-size:36px}@media print{.jetpack-sharing-buttons__services-list{display:none!important}}.editor-styles-wrapper .wp-block-jetpack-sharing-buttons{gap:0;padding-inline-start:0}ul.jetpack-sharing-buttons__services-list.has-background{padding:1.25em 2.375em}
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #fff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--dark-gray: #1a1a1a;--wp--preset--color--medium-gray: #686868;--wp--preset--color--light-gray: #e5e5e5;--wp--preset--color--blue-gray: #4d545c;--wp--preset--color--bright-blue: #007acc;--wp--preset--color--light-blue: #9adffd;--wp--preset--color--dark-brown: #402b30;--wp--preset--color--medium-brown: #774e24;--wp--preset--color--dark-red: #640c1f;--wp--preset--color--bright-red: #ff675f;--wp--preset--color--yellow: #ffef8e;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="easy_load_more-frontend-css" href="./fundo_files/frontend.css" media="all">
+<style id="easy_load_more-frontend-inline-css">
+.elm-button { background: #FFF; color: #000; }
+.elm-button:hover, .elm-button:active, .elm-button:focus { background: #ff3f33; }
+.elm-loading-icon { fill: #000; stroke: #000; }
+
+</style>
+<link rel="stylesheet" id="a3-pvc-style-css" href="./fundo_files/style(1).min.css" media="all">
+<link rel="stylesheet" id="parent-style-css" href="./fundo_files/style.css" media="all">
+<link rel="stylesheet" id="child-style-css" href="./fundo_files/style(1).css" media="all">
+<link rel="stylesheet" id="twentysixteen-fonts-css" href="./fundo_files/merriweather-plus-montserrat-plus-inconsolata.css" media="all">
+<link rel="stylesheet" id="genericons-css" href="./fundo_files/genericons.css" media="all">
+<link rel="stylesheet" id="twentysixteen-style-css" href="./fundo_files/style(2).css" media="all">
+<link rel="stylesheet" id="twentysixteen-block-style-css" href="./fundo_files/blocks.css" media="all">
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='twentysixteen-ie-css' href='https://monkeybuzz.com.br/wp-content/themes/twentysixteen/css/ie.css?ver=20170530.1695068643' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentysixteen-ie8-css' href='https://monkeybuzz.com.br/wp-content/themes/twentysixteen/css/ie8.css?ver=20170530.1695068643' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='twentysixteen-ie7-css' href='https://monkeybuzz.com.br/wp-content/themes/twentysixteen/css/ie7.css?ver=20170530.1695068643' media='all' />
+<![endif]-->
+<link rel="stylesheet" id="a3pvc-css" href="./fundo_files/pvc.min.css" media="all">
+<link rel="stylesheet" id="jetpack_css-css" href="./fundo_files/jetpack.css" media="all">
+<script src="./fundo_files/jquery.min.js.download" id="jquery-core-js"></script>
+<script src="./fundo_files/jquery-migrate.min.js.download" id="jquery-migrate-js"></script>
+<script src="./fundo_files/underscore.min.js.download" id="underscore-js"></script>
+<script src="./fundo_files/backbone.min.js.download" id="backbone-js"></script>
+<script id="a3-pvc-backbone-js-extra">
+var pvc_vars = {"rest_api_url":"https:\/\/monkeybuzz.com.br\/wp-json\/pvc\/v1","ajax_url":"https:\/\/monkeybuzz.com.br\/wp-admin\/admin-ajax.php","security":"2f34e10ace","ajax_load_type":"rest_api"};
+</script>
+<script src="./fundo_files/pvc.backbone.min.js.download" id="a3-pvc-backbone-js"></script>
+<!--[if lt IE 9]>
+<script src="https://monkeybuzz.com.br/wp-content/themes/twentysixteen/js/html5.js?ver=3.7.3.1695068643" id="twentysixteen-html5-js"></script>
+<![endif]-->
+<script></script><link rel="https://api.w.org/" href="https://monkeybuzz.com.br/wp-json/"><link rel="alternate" title="JSON" type="application/json" href="https://monkeybuzz.com.br/wp-json/wp/v2/resenhas/albuns/29866"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://monkeybuzz.com.br/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.6.1">
+<link rel="canonical" href="https://monkeybuzz.com.br/resenhas/albuns/lana-del-rey-lust-for-life/">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://monkeybuzz.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmonkeybuzz.com.br%2Fresenhas%2Falbuns%2Flana-del-rey-lust-for-life%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://monkeybuzz.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmonkeybuzz.com.br%2Fresenhas%2Falbuns%2Flana-del-rey-lust-for-life%2F&amp;format=xml">
+<meta name="generator" content="Site Kit by Google 1.131.0">	<style>img#wpstats{display:none}</style>
+		<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article">
+<meta property="og:title" content="Lana Del Rey – Lust For Life">
+<meta property="og:url" content="https://monkeybuzz.com.br/resenhas/albuns/lana-del-rey-lust-for-life/">
+<meta property="og:description" content="Compositora troca a introspecção por engajamento e maturidade ímpar em novo disco">
+<meta property="article:published_time" content="2017-07-28T11:26:00+00:00">
+<meta property="article:modified_time" content="2017-07-28T11:26:00+00:00">
+<meta property="og:site_name" content="Monkeybuzz">
+<meta property="og:image" content="https://monkeybuzz.com.br/wp-content/uploads/2017/07/f991b1a6b8809ed3cbea444e3e6f49a31000x1000x1-597a6c0c29702.jpg">
+<meta property="og:image:width" content="1000">
+<meta property="og:image:height" content="1000">
+<meta property="og:image:alt" content="">
+<meta property="og:locale" content="pt_BR">
+<meta name="twitter:text:title" content="Lana Del Rey – Lust For Life">
+<meta name="twitter:image" content="https://monkeybuzz.com.br/wp-content/uploads/2017/07/f991b1a6b8809ed3cbea444e3e6f49a31000x1000x1-597a6c0c29702.jpg?w=640">
+<meta name="twitter:card" content="summary_large_image">
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="icon" href="https://monkeybuzz.com.br/wp-content/uploads/2018/11/cropped-favicon-32x32.png" sizes="32x32">
+<link rel="icon" href="https://monkeybuzz.com.br/wp-content/uploads/2018/11/cropped-favicon-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://monkeybuzz.com.br/wp-content/uploads/2018/11/cropped-favicon-180x180.png">
+<meta name="msapplication-TileImage" content="https://monkeybuzz.com.br/wp-content/uploads/2018/11/cropped-favicon-270x270.png">
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>	<link rel="stylesheet" type="text/css" href="./fundo_files/slick.css">
+	<script type="text/javascript" src="./fundo_files/slick.min.js.download"></script>
+<script async="" src="./fundo_files/js(1)"></script><script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-25525584-1');
+</script><script src="./fundo_files/wp-emoji-release.min.js.download" defer=""></script><link rel="stylesheet" id="gravatar-card-css" href="./fundo_files/hovercards.min.css"></head>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+
+
+<body class="albuns-template-default single single-albuns postid-29866 single-format-standard wp-embed-responsive albuns-lana-del-rey-lust-for-life resenha no-sidebar wpb-js-composer js-comp-ver-7.8 vc_responsive">
+
+<div id="page" class="site">
+	<div class="site-inner">
+		<a class="skip-link screen-reader-text" href="https://monkeybuzz.com.br/resenhas/albuns/lana-del-rey-lust-for-life/#content">Pular para o conteúdo</a>
+
+		<header class="header-container">
+			<div class="header-left">
+				<a class="logo" href="https://monkeybuzz.com.br/"><img src="./fundo_files/logo.svg"></a>
+			</div>
+			<div class="header-center ">
+				<div class="header-menu">
+					<div class="menu-menu-principal-container"><ul id="menu-menu-principal" class="menu"><li id="menu-item-65321" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65321"><a href="https://monkeybuzz.com.br/materias/">Matérias</a></li>
+<li id="menu-item-65322" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65322"><a href="https://monkeybuzz.com.br/novidades/">Novidades</a></li>
+<li id="menu-item-65325" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65325"><a href="https://monkeybuzz.com.br/resenhas/">Resenhas</a></li>
+<li id="menu-item-72283" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-72283"><a href="https://monkeybuzz.com.br/tv/">TV</a></li>
+</ul></div>				</div>
+			</div>
+			<div class="header-right">
+				<a class="btn-search">Busca</a>
+				<div class="header-social">
+					<a class="btn-facebook" href="https://www.facebook.com/monkeybuzz" target="_blank"><img src="./fundo_files/ico-facebook.svg"></a>
+					<a class="btn-twitter" href="https://twitter.com/Monkeybuzz_" target="_blank"><img src="./fundo_files/ico-twitter.svg"></a>
+					<a class="btn-youtube" href="https://www.youtube.com/user/tvmonkeybuzz" target="_blank"><img src="./fundo_files/ico-youtube.svg"></a>
+					<a class="btn-instagram" href="https://www.instagram.com/monkeybuzz_/" target="_blank"><img src="./fundo_files/ico-instagram.svg"></a>
+				</div>
+			</div>
+		</header>
+
+		<div class="header-mobile">
+			<img class="btn-menu" src="./fundo_files/btn-menu.svg">
+			<a class="logo" href="https://monkeybuzz.com.br/"><img src="./fundo_files/logo.svg"></a>
+		</div>
+		<div class="menu-mobile">
+			<img class="btn-close" src="./fundo_files/btn-close.svg">
+			<a class="logo" href="https://monkeybuzz.com.br/"><img src="./fundo_files/logo-02.svg"></a>
+			<div class="header-menu">
+				<div class="menu-menu-principal-container"><ul id="menu-menu-principal-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65321"><a href="https://monkeybuzz.com.br/materias/">Matérias</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65322"><a href="https://monkeybuzz.com.br/novidades/">Novidades</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65325"><a href="https://monkeybuzz.com.br/resenhas/">Resenhas</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-72283"><a href="https://monkeybuzz.com.br/tv/">TV</a></li>
+</ul></div>			</div>
+			<input type="text" name="keyword" id="keyword_mobile" autocomplete="off" placeholder="Busca">
+			<div class="header-social">
+				<a class="btn-facebook" href="https://www.facebook.com/monkeybuzz" target="_blank"><img src="./fundo_files/ico-facebook.svg"></a>
+				<a class="btn-twitter" href="https://twitter.com/monkeybuzz" target="_blank"><img src="./fundo_files/ico-twitter.svg"></a>
+				<a class="btn-youtube" href="https://www.youtube.com/user/tvmonkeybuzz" target="_blank"><img src="./fundo_files/ico-youtube.svg"></a>
+				<a class="btn-instagram" href="https://www.instagram.com/monkeybuzz_/" target="_blank"><img src="./fundo_files/ico-instagram.svg"></a>
+			</div>
+		</div>
+
+		<div class="search-wrap">
+			<form class="form-search" action="https://monkeybuzz.com.br/" method="get" style="display: none;">
+			    <input type="text" name="s" id="search" value="" placeholder="Buscar:">
+			</form>
+			<div class="search-header">
+				<input type="text" name="keyword" id="keyword" autocomplete="off">
+				<a class="btn-search-all">Ver todos os resultados</a>
+			</div>
+			<img class="btn-close" src="./fundo_files/btn-close.svg">
+			<div class="search_results">
+				<div id="datafetch"></div>
+			</div>
+		</div>
+
+		<div id="content" class="site-content">
+
+<div id="primary" class="content-area">
+		<div class="single-grid">
+		<main id="main" class="site-main" role="main">
+								<div class="titulo-categoria titulo-serif">Resenhas</div>
+<article id="post-29866" class="post-29866 albuns type-albuns status-publish format-standard has-post-thumbnail hentry category-resenha artista-lana-del-rey marcador-chamber-pop marcador-ouca marcador-pop marcador-pop-alternativo">
+	<header class="entry-header">
+		<h1 class="entry-title">Lana Del Rey – Lust For Life</h1>	</header><!-- .entry-header -->
+
+				<div class="entry-summary">
+				<p style="margin-bottom: 0px;">Compositora troca a introspecção por engajamento e maturidade ímpar em novo disco</p>
+<div class="pvc_clear"></div>
+<p id="pvc_stats_29866" class="pvc_stats all  " data-element-id="29866" style="margin-bottom: 0px;"><span>
+    <i class="pvc-stats-icon medium" aria-hidden="true"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="chart-bar" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-chart-bar fa-w-16 fa-2x"><path fill="currentColor" d="M396.8 352h22.4c6.4 0 12.8-6.4 12.8-12.8V108.8c0-6.4-6.4-12.8-12.8-12.8h-22.4c-6.4 0-12.8 6.4-12.8 12.8v230.4c0 6.4 6.4 12.8 12.8 12.8zm-192 0h22.4c6.4 0 12.8-6.4 12.8-12.8V140.8c0-6.4-6.4-12.8-12.8-12.8h-22.4c-6.4 0-12.8 6.4-12.8 12.8v198.4c0 6.4 6.4 12.8 12.8 12.8zm96 0h22.4c6.4 0 12.8-6.4 12.8-12.8V204.8c0-6.4-6.4-12.8-12.8-12.8h-22.4c-6.4 0-12.8 6.4-12.8 12.8v134.4c0 6.4 6.4 12.8 12.8 12.8zM496 400H48V80c0-8.84-7.16-16-16-16H16C7.16 64 0 71.16 0 80v336c0 17.67 14.33 32 32 32h464c8.84 0 16-7.16 16-16v-16c0-8.84-7.16-16-16-16zm-387.2-48h22.4c6.4 0 12.8-6.4 12.8-12.8v-70.4c0-6.4-6.4-12.8-12.8-12.8h-22.4c-6.4 0-12.8 6.4-12.8 12.8v70.4c0 6.4 6.4 12.8 12.8 12.8z" class=""></path></svg></i> 
+	 5460 total views	
+		<span class="views_today">,  1 views today</span>
+	
+	
+	</span></p>
+<div class="pvc_clear"></div>
+			</div><!-- .entry-summary -->
+			
+	<div class="custom-post-meta">Por: <a href="https://monkeybuzz.com.br/author/lucas-cassoli/">Lucas Cassoli</a> | 28 de julho de 2017 | <span>Share Array<div class="social-box"><div class="social-btn"><a class="col-1 sbtn s-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmonkeybuzz.com.br%2Fresenhas%2Falbuns%2Flana-del-rey-lust-for-life%2F" target="_blank" rel="nofollow"></a><a class="col-1 sbtn s-twitter" href="https://twitter.com/intent/tweet?text=Lana%20Del%20Rey%20%E2%80%93%20Lust%20For%20Life&amp;url=https%3A%2F%2Fmonkeybuzz.com.br%2Fresenhas%2Falbuns%2Flana-del-rey-lust-for-life%2F&amp;via=Monkeybuzz_" target="_blank" rel="nofollow"></a></div></div></span></div>
+
+	<div class="post-thumbnail"><img width="840" height="840" src="./fundo_files/f991b1a6b8809ed3cbea444e3e6f49a31000x1000x1-597a6c0c29702.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" srcset="https://monkeybuzz.com.br/wp-content/uploads/2017/07/f991b1a6b8809ed3cbea444e3e6f49a31000x1000x1-597a6c0c29702.jpg 1000w, https://monkeybuzz.com.br/wp-content/uploads/2017/07/f991b1a6b8809ed3cbea444e3e6f49a31000x1000x1-597a6c0c29702-150x150.jpg 150w, https://monkeybuzz.com.br/wp-content/uploads/2017/07/f991b1a6b8809ed3cbea444e3e6f49a31000x1000x1-597a6c0c29702-300x300.jpg 300w, https://monkeybuzz.com.br/wp-content/uploads/2017/07/f991b1a6b8809ed3cbea444e3e6f49a31000x1000x1-597a6c0c29702-768x768.jpg 768w, https://monkeybuzz.com.br/wp-content/uploads/2017/07/f991b1a6b8809ed3cbea444e3e6f49a31000x1000x1-597a6c0c29702-100x100.jpg 100w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px"></div>
+
+	<div class="entry-content">
+		<div class="mb_details_wrp"><div class="mb_details_year"><span class="mb_details_year_title">Ano:</span> <span class="mb_details_year_text">2017</span></div><div class="mb_details_label"><span class="mb_details_label_title">Selo:</span> <span class="mb_details_label_text">Polydor</span></div><div class="mb_details_tracks"><span class="mb_details_tracks_title"># Faixas:</span> <span class="mb_details_tracks_text">16</span></div><div class="mb_details_genres"><span class="mb_details_genres_title">Estilos:</span> <span class="mb_details_genres_text">Pop, Pop Alternativo, Chamber Pop</span></div><div class="mb_details_length"><span class="mb_details_length_title">Duração:</span> <span class="mb_details_length_text">71:56</span></div><div class="mb_details_rating"><span class="mb_details_rating_title">Nota:</span> <span class="mb_details_rating_text">8</span></div><div class="mb_details_producer"><span class="mb_details_producer_title">Produção:</span> <span class="mb_details_producer_text">Lana del Rey, Emile Haynie, Rick Nowels, Benny Blanco, Kieron Menzies, Max Martin, Boi-1da, Mighty Mike, Metro Boomin, Sean Ono Lennon, Dean Reid e Jahaan Sweet</span></div><p></p></div><p><strong>Lana Del Rey</strong> viveu mergulhada em si mesmo por muito tempo. Em mais de quinze anos de atividade, a cantora e compositora provou que suas canções, embora bastante melancólicas, funcionam como profundos e majestosos desabafos sobre sua vida, ora usando metáforas narrativas densas, ora trabalhando com um linguagem mais direta e jornalística. Com o passar do tempo, seus discos foram desenvolvendo cada vez mais a arte da introspecção, até chegar em <em>Honeymoon</em>, uma experiência definitiva e referência mundial no quesito sentimental e musical, misturando referências <em>vintage</em> com algumas pinceladas contemporâneas de Hip-Hop. Entretanto, o mergulho parece ter chegado ao fim com a chegada de seu quinto disco de estúdio, no qual ficou bastante claro que a vida em volta do mundo emocional de Lana tem maior destaque em sua obra a partir de agora.</p>
+<p>“<strong><em>Lust For Life</em></strong> é um disco para meus fãs”, relatou a cantora. Com uma certa dose de inventividade, Lana ainda manteve certos aspectos de sua musicalidade intactos, como o apego definitivo à orquestração, elementos dos anos 1950/60 e a vocais suaves. Entretanto, com tantos anos de carreira, a compositora agora entende sua função como artista e acompanha a evolução de seu público e da realidade que vive. Talvez por isso o disco tenha referências de Hip-Hop mais presentes e temáticas menos introspectivas, como o cenário político dos Estados Unidos, mesmo que não sejam totalmente abandonados aqueles temas introspectivos de outrora. Na verdade, <em>Lust For Life</em> trabalha justamente com esta reciprocidade de como a realidade afeta o dia-a-dia da cantora e de que forma ela altera a conjuntura sociopolítica de seu país de origem. Com essa complexidade em mente, fica evidente porque este é um dos trabalhos mais complexos de Lana até hoje.</p>
+<p>Os singles <em>Love</em> e <em>Lust For Life</em>, com The Weeknd, nos fizeram acreditar que este disco seria sobre uma Lana mais sorridente e “apaixonada”, por falta de um termo melhor. Entretanto, eles apenas mostram uma parcela da complexa personalidade da cantora, já que a terceira faixa, <em>13 Beaches</em>, evoca aquela personalidade soturna e melancólica de seu terceiro disco <em>Ultraviolence</em>. Já <em>Summer Bummer</em> e <em>Groupie Love</em>, as duas parcerias com A$AP Rocky, ressaltam esta mesma melancolia, porém alterando significamente a forma como ela é expressa, abusando de <em>beats</em> genéricos do Hip Hop, ainda que usando de instrumentações bastante criativas.</p>
+<p>Até que somos surpreendidos por uma sequência tocante e engajada: começando com <em>God Bless America – And All The Beautiful Woman In It</em>, uma das mais profundas e pegajosas faixas do disco, passando por <em>Beautiful People, Beautiful Probems</em>, parceria fantástica com Stevie Nicks, e terminando com <em>Tomorrow Never Came</em>, dueto Folk com Sean Lennon que nos mostra que, na verdade, Lana nunca abandonou a introspecção, apenas a redefiniu. Por fim, <em>Get Free</em> encerra o disco com uma mensagem de liberdade, condizente com o <em>american way of life</em> tão adorado pela cantora, readaptado para os dias atuais conturbados politicamente. </p>
+<p><em>Lust For Life</em> é um trabalho complexo, assim como a mente de Lana. Trabalhando em diversas direções, temos um registro maduro que nos faz acreditar que estamos diante de mais um disco maçante de Lana quando, na verdade, temos em mãos o trabalho mais consistente da cantora até agora. </p>
+<p>Um álbum sobre crescer e entender sua posição perante o mundo. Um álbum sobre o florescer de Lana Del Rey.</p>
+<p><strong>(<em>Lust For Life</em> em uma faixa: <em>God Bless America – And All The Beautiful Woman In It</em>)</strong></p>
+<iframe loading="lazy" width="647" height="364" src="./fundo_files/3-NTv0CdFCk.html" frameborder="0" allowfullscreen="" class="iframe-youtube"></iframe>
+<iframe loading="lazy" src="./fundo_files/1nP1BEciW2qIlkg4bz97nD.html" width="647" height="720" frameborder="0" allowtransparency="true" style="margin-bottom: 0px;"></iframe><div class="pvc_clear"></div><p id="pvc_stats_29866" class="pvc_stats all  pvc_load_by_ajax_update" data-element-id="29866" style="margin-bottom: 0px;"><i class="pvc-stats-icon medium" aria-hidden="true"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="chart-bar" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-chart-bar fa-w-16 fa-2x"><path fill="currentColor" d="M396.8 352h22.4c6.4 0 12.8-6.4 12.8-12.8V108.8c0-6.4-6.4-12.8-12.8-12.8h-22.4c-6.4 0-12.8 6.4-12.8 12.8v230.4c0 6.4 6.4 12.8 12.8 12.8zm-192 0h22.4c6.4 0 12.8-6.4 12.8-12.8V140.8c0-6.4-6.4-12.8-12.8-12.8h-22.4c-6.4 0-12.8 6.4-12.8 12.8v198.4c0 6.4 6.4 12.8 12.8 12.8zm96 0h22.4c6.4 0 12.8-6.4 12.8-12.8V204.8c0-6.4-6.4-12.8-12.8-12.8h-22.4c-6.4 0-12.8 6.4-12.8 12.8v134.4c0 6.4 6.4 12.8 12.8 12.8zM496 400H48V80c0-8.84-7.16-16-16-16H16C7.16 64 0 71.16 0 80v336c0 17.67 14.33 32 32 32h464c8.84 0 16-7.16 16-16v-16c0-8.84-7.16-16-16-16zm-387.2-48h22.4c6.4 0 12.8-6.4 12.8-12.8v-70.4c0-6.4-6.4-12.8-12.8-12.8h-22.4c-6.4 0-12.8 6.4-12.8 12.8v70.4c0 6.4 6.4 12.8 12.8 12.8z" class=""></path></svg></i> <img loading="lazy" decoding="async" width="16" height="16" alt="Loading" src="./fundo_files/ajax-loader-2x.gif" border="0"></p><div class="pvc_clear"></div><div class="social-box"><div class="social-btn"><a class="col-1 sbtn s-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmonkeybuzz.com.br%2Fresenhas%2Falbuns%2Flana-del-rey-lust-for-life%2F" target="_blank" rel="nofollow"></a><a class="col-1 sbtn s-twitter" href="https://twitter.com/intent/tweet?text=Lana%20Del%20Rey%20%E2%80%93%20Lust%20For%20Life&amp;url=https%3A%2F%2Fmonkeybuzz.com.br%2Fresenhas%2Falbuns%2Flana-del-rey-lust-for-life%2F&amp;via=Monkeybuzz_" target="_blank" rel="nofollow"></a></div></div>
+<!-- .author-info -->
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+					</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+		</main><!-- .site-main -->
+
+		
+		<div class="empty"></div>
+
+					<div class="sidebar" style="min-height: 2272.5px;">
+				<section class="block-home-novidades-01">
+					<div class="titulo-categoria"><a class="btn-mais_recentes">Mais Recentes</a>  |  <a class="btn-mais_lidas">Mais Lidas</a></div>
+					<div class="block-mais_recentes">
+						<div class="block-grid">									<div class="loop-item">
+																				<a class="novidades-imgs" href="https://monkeybuzz.com.br/resenhas/albuns/arnaldo-antunes-novo-mundo/" style="background-image: url(&#39;https://monkeybuzz.com.br/wp-content/uploads/2025/04/arnaldo-capa.jpg&#39;)"></a>
+								        <h2 class="titulo-serif font-size-28"><a href="https://monkeybuzz.com.br/resenhas/albuns/arnaldo-antunes-novo-mundo/">Arnaldo Antunes – Novo Mundo</a></h2>
+								        <div class="texto-01">Afiado discursiva e esteticamente, novo disco do célebre músico é, ao mesmo tempo, fatalista e profundamente humano </div>
+								        <div class="custom-post-meta">Por: <a href="https://monkeybuzz.com.br/author/andre-medeiros/">André Felipe de Medeiros</a> | 22 de abril de 2025 | <span>Share Array<div class="social-box"><div class="social-btn"><a class="col-1 sbtn s-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmonkeybuzz.com.br%2Fresenhas%2Falbuns%2Farnaldo-antunes-novo-mundo%2F" target="_blank" rel="nofollow"></a><a class="col-1 sbtn s-twitter" href="https://twitter.com/intent/tweet?text=Arnaldo%20Antunes%20%E2%80%93%20Novo%20Mundo&amp;url=https%3A%2F%2Fmonkeybuzz.com.br%2Fresenhas%2Falbuns%2Farnaldo-antunes-novo-mundo%2F&amp;via=Monkeybuzz_" target="_blank" rel="nofollow"></a></div></div></span></div>
+									</div>									<div class="loop-item">
+																				<a class="novidades-imgs" href="https://monkeybuzz.com.br/resenhas/albuns/black-country-new-road-forever-howlong/" style="background-image: url(&#39;https://monkeybuzz.com.br/wp-content/uploads/2025/04/capa-bcnr.jpg&#39;)"></a>
+								        <h2 class="titulo-serif font-size-28"><a href="https://monkeybuzz.com.br/resenhas/albuns/black-country-new-road-forever-howlong/">Black Country, New Road – Forever Howlong</a></h2>
+								        <div class="texto-01">Com melodias rodopiantes e momentos de extrema beleza, novo disco do grupo britânico abraça um pop-folk de ares fantásticos e dramáticos.</div>
+								        <div class="custom-post-meta">Por: <a href="https://monkeybuzz.com.br/author/roger-valenca/">Roger Valença</a> | 14 de abril de 2025 | <span>Share Array<div class="social-box"><div class="social-btn"><a class="col-1 sbtn s-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmonkeybuzz.com.br%2Fresenhas%2Falbuns%2Fblack-country-new-road-forever-howlong%2F" target="_blank" rel="nofollow"></a><a class="col-1 sbtn s-twitter" href="https://twitter.com/intent/tweet?text=Black%20Country,%20New%20Road%20%E2%80%93%20Forever%20Howlong&amp;url=https%3A%2F%2Fmonkeybuzz.com.br%2Fresenhas%2Falbuns%2Fblack-country-new-road-forever-howlong%2F&amp;via=Monkeybuzz_" target="_blank" rel="nofollow"></a></div></div></span></div>
+									</div>									<div class="loop-item">
+																				<a class="novidades-imgs" href="https://monkeybuzz.com.br/resenhas/albuns/anxious-bambi/" style="background-image: url(&#39;https://monkeybuzz.com.br/wp-content/uploads/2025/04/anxious-bambi-capa.jpg&#39;)"></a>
+								        <h2 class="titulo-serif font-size-28"><a href="https://monkeybuzz.com.br/resenhas/albuns/anxious-bambi/">Anxious – Bambi</a></h2>
+								        <div class="texto-01">Banda americana expande horizontes em segundo disco e adiciona toques de rock alternativo e pop punk em seu hardcore </div>
+								        <div class="custom-post-meta">Por: <a href="https://monkeybuzz.com.br/author/nik-silva/">Nik Silva</a> | 9 de abril de 2025 | <span>Share Array<div class="social-box"><div class="social-btn"><a class="col-1 sbtn s-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmonkeybuzz.com.br%2Fresenhas%2Falbuns%2Fanxious-bambi%2F" target="_blank" rel="nofollow"></a><a class="col-1 sbtn s-twitter" href="https://twitter.com/intent/tweet?text=Anxious%20%E2%80%93%20Bambi&amp;url=https%3A%2F%2Fmonkeybuzz.com.br%2Fresenhas%2Falbuns%2Fanxious-bambi%2F&amp;via=Monkeybuzz_" target="_blank" rel="nofollow"></a></div></div></span></div>
+									</div>									<div class="loop-item">
+																				<a class="novidades-imgs" href="https://monkeybuzz.com.br/resenhas/albuns/florence-adooni-a-o-e-i-u/" style="background-image: url(&#39;https://monkeybuzz.com.br/wp-content/uploads/2025/03/capa-3.jpg&#39;)"></a>
+								        <h2 class="titulo-serif font-size-28"><a href="https://monkeybuzz.com.br/resenhas/albuns/florence-adooni-a-o-e-i-u/">Florence Adooni – A.O.E.I.U</a></h2>
+								        <div class="texto-01">Amostra do gospel highlife, disco da artista ganesa é uma viagem envolvente – seja em grooves de pista ou em investidas psicodélicas</div>
+								        <div class="custom-post-meta">Por: <a href="https://monkeybuzz.com.br/author/thais-regina/">Thaís Regina</a> | 31 de março de 2025 | <span>Share Array<div class="social-box"><div class="social-btn"><a class="col-1 sbtn s-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmonkeybuzz.com.br%2Fresenhas%2Falbuns%2Fflorence-adooni-a-o-e-i-u%2F" target="_blank" rel="nofollow"></a><a class="col-1 sbtn s-twitter" href="https://twitter.com/intent/tweet?text=Florence%20Adooni%20%E2%80%93%20A.O.E.I.U&amp;url=https%3A%2F%2Fmonkeybuzz.com.br%2Fresenhas%2Falbuns%2Fflorence-adooni-a-o-e-i-u%2F&amp;via=Monkeybuzz_" target="_blank" rel="nofollow"></a></div></div></span></div>
+									</div>													</div>
+					</div>
+					<div class="block-mais_lidas">									<div class="loop-item">
+																				<a class="novidades-imgs" href="https://monkeybuzz.com.br/resenhas/albuns/kendrick-lamar-good-kid-m-a-a-d-city/" style="background-image: url(&#39;https://monkeybuzz.com.br/wp-content/uploads/2012/11/kendrickgkmc.jpg&#39;)"></a>
+								        <h2 class="titulo-serif font-size-28"><a href="https://monkeybuzz.com.br/resenhas/albuns/kendrick-lamar-good-kid-m-a-a-d-city/">Kendrick Lamar – good kid, m.A.A.d city</a></h2>
+								        <div class="texto-01">Jovem rapper traz disco coeso, repleto de batidas precisas, tornando-se um dos grandes lançamentos de Hip Hop do ano.</div>
+								        <div class="custom-post-meta">Por: <a href="https://monkeybuzz.com.br/author/gabriel-rolim/">Gabriel Rolim</a> | 1 de novembro de 2012 | <span>Share Array<div class="social-box"><div class="social-btn"><a class="col-1 sbtn s-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmonkeybuzz.com.br%2Fresenhas%2Falbuns%2Fkendrick-lamar-good-kid-m-a-a-d-city%2F" target="_blank" rel="nofollow"></a><a class="col-1 sbtn s-twitter" href="https://twitter.com/intent/tweet?text=Kendrick%20Lamar%20%E2%80%93%20good%20kid,%20m.A.A.d%20city&amp;url=https%3A%2F%2Fmonkeybuzz.com.br%2Fresenhas%2Falbuns%2Fkendrick-lamar-good-kid-m-a-a-d-city%2F&amp;via=Monkeybuzz_" target="_blank" rel="nofollow"></a></div></div></span></div>
+									</div>									<div class="loop-item">
+																				<a class="novidades-imgs" href="https://monkeybuzz.com.br/resenhas/albuns/rubel-pearl/" style="background-image: url(&#39;https://monkeybuzz.com.br/wp-content/uploads/2013/04/rubel-pearl.jpg&#39;)"></a>
+								        <h2 class="titulo-serif font-size-28"><a href="https://monkeybuzz.com.br/resenhas/albuns/rubel-pearl/">Rubel – Pearl</a></h2>
+								        <div class="texto-01">Músico carioca grava o resultado de uma temporada morando longe de casa, na culturalmente rica cidade de Austin, no Texas</div>
+								        <div class="custom-post-meta">Por: <a href="https://monkeybuzz.com.br/author/andre-medeiros/">André Felipe de Medeiros</a> | 12 de abril de 2013 | <span>Share Array<div class="social-box"><div class="social-btn"><a class="col-1 sbtn s-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmonkeybuzz.com.br%2Fresenhas%2Falbuns%2Frubel-pearl%2F" target="_blank" rel="nofollow"></a><a class="col-1 sbtn s-twitter" href="https://twitter.com/intent/tweet?text=Rubel%20%E2%80%93%20Pearl&amp;url=https%3A%2F%2Fmonkeybuzz.com.br%2Fresenhas%2Falbuns%2Frubel-pearl%2F&amp;via=Monkeybuzz_" target="_blank" rel="nofollow"></a></div></div></span></div>
+									</div>									<div class="loop-item">
+																				<a class="novidades-imgs" href="https://monkeybuzz.com.br/resenhas/albuns/tiago-iorc-zeski/" style="background-image: url(&#39;https://monkeybuzz.com.br/wp-content/uploads/2013/07/tiago-iorc-zeski.jpg&#39;)"></a>
+								        <h2 class="titulo-serif font-size-28"><a href="https://monkeybuzz.com.br/resenhas/albuns/tiago-iorc-zeski/">Tiago Iorc – Zeski</a></h2>
+								        <div class="texto-01">Músico entrega trabalho leve e cheio de personalidade em seu terceiro álbum, com faixas como as que ele sempre fez completadas por covers e parcerias</div>
+								        <div class="custom-post-meta">Por: <a href="https://monkeybuzz.com.br/author/andre-medeiros/">André Felipe de Medeiros</a> | 31 de julho de 2013 | <span>Share Array<div class="social-box"><div class="social-btn"><a class="col-1 sbtn s-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmonkeybuzz.com.br%2Fresenhas%2Falbuns%2Ftiago-iorc-zeski%2F" target="_blank" rel="nofollow"></a><a class="col-1 sbtn s-twitter" href="https://twitter.com/intent/tweet?text=Tiago%20Iorc%20%E2%80%93%20Zeski&amp;url=https%3A%2F%2Fmonkeybuzz.com.br%2Fresenhas%2Falbuns%2Ftiago-iorc-zeski%2F&amp;via=Monkeybuzz_" target="_blank" rel="nofollow"></a></div></div></span></div>
+									</div>									<div class="loop-item">
+																				<a class="novidades-imgs" href="https://monkeybuzz.com.br/resenhas/albuns/caetano-veloso-abracaco/" style="background-image: url(&#39;https://monkeybuzz.com.br/wp-content/uploads/2012/12/caetano-veloso-abracaco.jpeg&#39;)"></a>
+								        <h2 class="titulo-serif font-size-28"><a href="https://monkeybuzz.com.br/resenhas/albuns/caetano-veloso-abracaco/">Caetano Veloso – Abraçaço</a></h2>
+								        <div class="texto-01">Assim como fez nas últimas quatro décadas, o mestre nos ensina a abrir os ouvidos para a música do nosso tempo</div>
+								        <div class="custom-post-meta">Por: <a href="https://monkeybuzz.com.br/author/andre-medeiros/">André Felipe de Medeiros</a> | 5 de dezembro de 2012 | <span>Share Array<div class="social-box"><div class="social-btn"><a class="col-1 sbtn s-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmonkeybuzz.com.br%2Fresenhas%2Falbuns%2Fcaetano-veloso-abracaco%2F" target="_blank" rel="nofollow"></a><a class="col-1 sbtn s-twitter" href="https://twitter.com/intent/tweet?text=Caetano%20Veloso%20%E2%80%93%20Abra%C3%A7a%C3%A7o&amp;url=https%3A%2F%2Fmonkeybuzz.com.br%2Fresenhas%2Falbuns%2Fcaetano-veloso-abracaco%2F&amp;via=Monkeybuzz_" target="_blank" rel="nofollow"></a></div></div></span></div>
+									</div>													</div>
+					</section><div class="more-info-wrapper"><div class="mb_tax_wrp"><div class="mb_tax_wrp_bpqo"><span class="mb_tax_title_bpqo">Bom pra quem ouve: </span> <span class="mb_tax_terms_bpqo"><a href="https://monkeybuzz.com.br/artistas/madonna/">Madonna</a>, <a href="https://monkeybuzz.com.br/artistas/lorde/">Lorde</a>, <a href="https://monkeybuzz.com.br/artistas/marina-and-the-diamonds/">Marina And The Diamonds</a></span></div><div class="mb_tax_wrp_artista"><span class="mb_tax_title_artista">Artista: </span> <span class="mb_tax_terms_artista"><a href="https://monkeybuzz.com.br/artistas/lana-del-rey/">Lana Del Rey</a></span></div><div class="mb_tax_wrp_marcador"><span class="mb_tax_title_marcador">Marcadores: </span> <span class="mb_tax_terms_marcador"><a href="https://monkeybuzz.com.br/marcadores/chamber-pop/">Chamber Pop</a>, <a href="https://monkeybuzz.com.br/marcadores/ouca/">Ouça</a>, <a href="https://monkeybuzz.com.br/marcadores/pop/">Pop</a>, <a href="https://monkeybuzz.com.br/marcadores/pop-alternativo/">Pop Alternativo</a></span></div></div><div class="author-info">
+	<div class="author-avatar">
+		<img alt="" src="./fundo_files/6d3c2b7288fd165a5d69d285945476e3.jpg" srcset="https://secure.gravatar.com/avatar/6d3c2b7288fd165a5d69d285945476e3?s=84&amp;d=mm&amp;r=g 2x" class="avatar avatar-42 photo wp-hovercard-attachment grav-hashed grav-hijack" height="42" width="42" loading="lazy" decoding="async">	</div><!-- .author-avatar -->
+
+	<div class="author-description">
+		<h2 class="author-title"><span class="author-heading">Autor:</span><a class="author-link" href="https://monkeybuzz.com.br/author/lucas-cassoli/" rel="author">Lucas Cassoli</a></h2>
+
+		<p class="author-bio">
+			Produtor, pesquisador musical e entusiasta de um bom lounge chique			<!-- <a class="author-link" href="https://monkeybuzz.com.br/author/lucas-cassoli/" rel="author">
+				Ver todos posts por Lucas Cassoli			</a> -->
+		</p><!-- .author-bio -->
+	</div><!-- .author-description -->
+</div></div></div>
+				
+			</div>
+			
+
+	</div>
+	<div class="related_posts-wrapper">
+		<div class="titulo-categoria">Mais sobre</div>
+		<div class="related-grid">
+												<div class="loop-item">
+												<a class="novidades-imgs" href="https://monkeybuzz.com.br/resenhas/albuns/lana-del-rey-paradise/" style="background-image: url(&#39;https://monkeybuzz.com.br/wp-content/uploads/2012/11/lana-del-rey-paradise-1024x1024.jpg&#39;)"></a>
+				        <h2 class="titulo-serif font-size-28"><a href="https://monkeybuzz.com.br/resenhas/albuns/lana-del-rey-paradise/">Lana Del Rey – Paradise</a></h2>
+				        <div class="texto-01">EP prolonga a fantasia da personagem de Elizabth Grant em uma coleção de músicas grandiosas e sacanas que ficam melhores sem "Born to Die"</div>
+				        <div class="custom-post-meta">Por: <a href="https://monkeybuzz.com.br/author/andre-medeiros/">André Felipe de Medeiros</a> | 15 de novembro de 2012 | <span>Share Array<div class="social-box"><div class="social-btn"><a class="col-1 sbtn s-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmonkeybuzz.com.br%2Fresenhas%2Falbuns%2Flana-del-rey-paradise%2F" target="_blank" rel="nofollow"></a><a class="col-1 sbtn s-twitter" href="https://twitter.com/intent/tweet?text=Lana%20Del%20Rey%20%E2%80%93%20Paradise&amp;url=https%3A%2F%2Fmonkeybuzz.com.br%2Fresenhas%2Falbuns%2Flana-del-rey-paradise%2F&amp;via=Monkeybuzz_" target="_blank" rel="nofollow"></a></div></div></span></div>
+					</div>
+									<div class="loop-item">
+												<a class="novidades-imgs" href="https://monkeybuzz.com.br/resenhas/albuns/lana-del-rey-born-to-die/" style="background-image: url(&#39;https://monkeybuzz.com.br/wp-content/uploads/2012/08/lana-del-rey-born-to-die.jpg&#39;)"></a>
+				        <h2 class="titulo-serif font-size-28"><a href="https://monkeybuzz.com.br/resenhas/albuns/lana-del-rey-born-to-die/">Lana Del Rey – Born to Die</a></h2>
+				        <div class="texto-01">Depois de conquistar a Internet com a faixa "Video Games", a nova musa tenta atender as expectativas dos fãs tão ansiosos por seu primeiro álbum, o que fica difícil com faixas tão diferentes da música que a tornou conhecida mundialmente</div>
+				        <div class="custom-post-meta">Por: <a href="https://monkeybuzz.com.br/author/andre-medeiros/">André Felipe de Medeiros</a> | 27 de janeiro de 2012 | <span>Share Array<div class="social-box"><div class="social-btn"><a class="col-1 sbtn s-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmonkeybuzz.com.br%2Fresenhas%2Falbuns%2Flana-del-rey-born-to-die%2F" target="_blank" rel="nofollow"></a><a class="col-1 sbtn s-twitter" href="https://twitter.com/intent/tweet?text=Lana%20Del%20Rey%20%E2%80%93%20Born%20to%20Die&amp;url=https%3A%2F%2Fmonkeybuzz.com.br%2Fresenhas%2Falbuns%2Flana-del-rey-born-to-die%2F&amp;via=Monkeybuzz_" target="_blank" rel="nofollow"></a></div></div></span></div>
+					</div>
+									<div class="loop-item">
+												<a class="novidades-imgs" href="https://monkeybuzz.com.br/resenhas/albuns/lana-del-rey-ultraviolence/" style="background-image: url(&#39;https://monkeybuzz.com.br/wp-content/uploads/2014/06/7244134666-1024x1024.png&#39;)"></a>
+				        <h2 class="titulo-serif font-size-28"><a href="https://monkeybuzz.com.br/resenhas/albuns/lana-del-rey-ultraviolence/">Lana Del Rey – Ultraviolence</a></h2>
+				        <div class="texto-01">Em uma atmosfera decadente, Lana abriga seu novo trabalho onde dormem sentimentos mais obscuros e introspectivos</div>
+				        <div class="custom-post-meta">Por: <a href="https://monkeybuzz.com.br/author/maynara-fanucci/">Maynara Fanucci</a> | 18 de junho de 2014 | <span>Share Array<div class="social-box"><div class="social-btn"><a class="col-1 sbtn s-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmonkeybuzz.com.br%2Fresenhas%2Falbuns%2Flana-del-rey-ultraviolence%2F" target="_blank" rel="nofollow"></a><a class="col-1 sbtn s-twitter" href="https://twitter.com/intent/tweet?text=Lana%20Del%20Rey%20%E2%80%93%20Ultraviolence&amp;url=https%3A%2F%2Fmonkeybuzz.com.br%2Fresenhas%2Falbuns%2Flana-del-rey-ultraviolence%2F&amp;via=Monkeybuzz_" target="_blank" rel="nofollow"></a></div></div></span></div>
+					</div>
+									<div class="loop-item">
+												<a class="novidades-imgs" href="https://monkeybuzz.com.br/resenhas/albuns/lana-del-rey-honeymoon/" style="background-image: url(&#39;https://monkeybuzz.com.br/wp-content/uploads/2015/09/528666-560bb2e921def-1024x1016.jpg&#39;)"></a>
+				        <h2 class="titulo-serif font-size-28"><a href="https://monkeybuzz.com.br/resenhas/albuns/lana-del-rey-honeymoon/">Lana Del Rey – Honeymoon</a></h2>
+				        <div class="texto-01">Cantora lança seu álbum mais consistente e parece confortável dentro da identidade que construiu</div>
+				        <div class="custom-post-meta">Por: <a href="https://monkeybuzz.com.br/author/lucas/">Lucas Repullo</a> | 30 de setembro de 2015 | <span>Share Array<div class="social-box"><div class="social-btn"><a class="col-1 sbtn s-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmonkeybuzz.com.br%2Fresenhas%2Falbuns%2Flana-del-rey-honeymoon%2F" target="_blank" rel="nofollow"></a><a class="col-1 sbtn s-twitter" href="https://twitter.com/intent/tweet?text=Lana%20Del%20Rey%20%E2%80%93%20Honeymoon&amp;url=https%3A%2F%2Fmonkeybuzz.com.br%2Fresenhas%2Falbuns%2Flana-del-rey-honeymoon%2F&amp;via=Monkeybuzz_" target="_blank" rel="nofollow"></a></div></div></span></div>
+					</div>
+									</div>
+	</div>
+</div><!-- .content-area -->
+
+
+
+
+		
+
+		</div><!-- .site-content -->
+
+		
+
+		<footer class="footer">
+			<div class="ft-top">
+				<a class="logo" href="https://monkeybuzz.com.br/"><img src="./fundo_files/logo.svg"></a>				
+			</div>
+			<div class="ft-bottom">
+				<div class="ft-column-25">
+					<div class="ft-item ft-newsletter">
+						<div class="titulo-caps font-size-14">Newsletter</div>
+						<div class="footer-text">Assine a Newsletter digitando seu endereo de e-mail abaixo</div>
+						<div><input type="email" placeholder="seu@email.com"></div>
+					</div>
+					<div class="ft-item ft-contato">
+						<div class="titulo-caps font-size-14">Contato</div>
+						<div class="footer-text">
+							<p>Quer anunciar no site, fazer<br>
+parcerias ou promoções conosco?</p>
+<p><a href="mailto:comercial@monkeybuzz.com.br">comercial@monkeybuzz.com.br</a></p>
+<p>Sugestão de pauta?</p>
+<p><a href="mailto:editorial@monkeybuzz.com.br">editorial@monkeybuzz.com.br</a></p>
+<p>Quer falar ou enviar qualquer coisa e não se achou em nenhuma das opções anteriores?</p>
+<p><a href="mailto:contato@monkeybuzz.com.br">contato@monkeybuzz.com.br</a></p>
+						</div>
+					</div>
+				</div>
+				<div class="ft-column-25">
+					<div class="ft-item ft-equipe">
+						<div class="titulo-caps font-size-14">Equipe</div>
+						<div class="footer-text">
+							<p>Lucas Repullo<br>
+Fundador e Diretor Criativo</p>
+<p>Edição<br>
+Maurício Amendola</p>
+<p>Equipe<br>
+Ana Laura Pádua<br>
+André Felipe de Medeiros<br>
+Gabriel Rolim<br>
+Nik Silva</p>
+<p>Design<br>
+<a href="http://sometimes-always.com/" target="_blank" rel="noopener">Sometimes Always</a></p>
+<p>Desenvolvimento<br>
+<a href="http://fluxo.design/" target="_blank" rel="noopener">Fluxo</a></p>
+						</div>
+					</div>
+					<div class="ft-item">
+						<div class="titulo-caps font-size-14">Trabalhe conosco</div>
+						<div class="footer-text">
+							<p>Você é fã de boa música, ávido por descobrir as últimas novidades, gosta de discutir sobre o assunto, escreve, fotografa, faz vídeos ou acha que poderia contribuir de alguma outra forma conosco?</p>
+<p>Envie um email para <a class="vagas" href="mailto:vagas@monkeybuzz.com.br">vagas@monkeybuzz.com.br</a></p>
+						</div>
+					</div>
+				</div>
+				<div class="ft-column-50">
+					<div class="ft-item ft-about">
+						<div class="titulo-caps font-size-14">Sobre</div>
+						<div class="footer-text">
+							<p>De uma oferta cada vez mais variada de lançamentos, seja de bandas e artistas já conhecidos ou não, internacionais ou brasileiros, surge o Monkeybuzz, o site que alia a curiosidade de conhecer novos sons à vantagem de já surgir como um “macaco velho” que sabe o que trazer em primeira mão aquilo que merece ser ouvido.</p>
+<p>Nós levamos novidades tão a sério que as trazemos de duas formas. Primeiro, funcionamos como o seu filtro para as bandas surgidas recentemente e os novos sons que definem o nosso tempo. Com isso em mente, produzimos diariamente notícias da cena nacional e estrangeira sem distinguir entre os artistas que você já ouviu falar e aqueles que você vai conhecer por aqui. Afinal, nosso principal foco é na qualidade da música – e isso não falta no Monkeybuzz.</p>
+<p>Além das notícias, você encontra em cada uma de nossas páginas um conteúdo preparado sob medida para quem quer saber mais sobre estilos, tendências e curiosidades das várias faces da música, tanto em artigos especiais que exploram a fundo os temas, quanto em colunas periódicas que revelam pontos de vista variados sobre as diversas maneiras de se fazer, consumir e pensar música hoje em dia.</p>
+<p>Os lançamentos de álbuns e EPs mais relevantes são resenhados por uma equipe que respira música 24 horas por dia, na missão de te trazer uma variedade completa de gêneros para que você encontre exatamente o som que não sabia que procurava. A navegação é muito simples e, quando você acessa uma página, logo vai ver sugestões de músicos e discos que vale a pena você conferir.</p>
+<p>E, como todo fã dessa arte, fazemos questão de boas apresentações ao vivo. Pra isso, temos a Monkey TV, com performances exclusivas de bandas e artistas que fazem um som de alta qualidade com algum diferencial que os destaca no cenário de seu gênero. Como se isso não bastasse, te ajudamos a programar seu roteiro musical com nossa Agenda e contamos tudo sobre grandes shows no Brasil e no mundo através de nossas resenhas.</p>
+<p>Dessa forma, temos a certeza que vamos sempre te manter entretido e informado, colocando cada novidade em seu próprio galho para você colher os frutos da música em nossa época.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+
+
+	</div><!-- .site-inner -->
+<!-- .site -->
+
+<div class="base_url hidden">https://monkeybuzz.com.br</div>
+
+<script type="text/javascript" src="./fundo_files/custom.js.download"></script>
+
+	<div style="display:none">
+			<div class="grofile-hash-map-6d3c2b7288fd165a5d69d285945476e3">
+		</div>
+		</div>
+		<script type="text/javascript">
+
+
+var timer = null;
+jQuery('#keyword').keyup(function(){
+       clearTimeout(timer); 
+       timer = setTimeout(doStuff, 1000)
+});
+
+function doStuff() {
+    if( jQuery('#keyword').val() == '' ) {
+        jQuery('#datafetch').html('');
+    }else{
+        jQuery.ajax({
+            url: 'https://monkeybuzz.com.br/wp-admin/admin-ajax.php',
+            type: 'post',
+            data: { action: 'data_fetch', keyword: jQuery('#keyword').val() },
+            beforeSend: function() {
+                if (jQuery('.search-loading').length < 1 ) {
+                    jQuery('body').prepend('<div class="search-loading">Carregando resultados...</div>');
+                }
+                jQuery('#keyword').prop('disabled', true);
+            },
+            success: function(data) {
+                jQuery('#datafetch').html( data );
+                jQuery('.search-loading').remove();
+                jQuery('.search-wrap').show();
+                jQuery('#keyword').prop('disabled', false).focus();
+                var seen = {};
+                jQuery('a[rel="tag"]').each(function() {
+                    var txt = jQuery(this).text();
+                    if (seen[txt])
+                        jQuery(this).remove();
+                    else
+                        seen[txt] = true;
+                });
+            }
+        });
+    }
+}
+
+</script>
+
+<script src="./fundo_files/frontend.min.js.download" id="easy_load_more-frontend-js"></script>
+<script src="./fundo_files/gprofiles.js.download" id="grofiles-cards-js"></script>
+<script id="wpgroho-js-extra">
+var WPGroHo = {"my_hash":""};
+</script>
+<script src="./fundo_files/wpgroho.js.download" id="wpgroho-js"></script>
+<script src="./fundo_files/skip-link-focus-fix.js.download" id="twentysixteen-skip-link-focus-fix-js"></script>
+<script id="twentysixteen-script-js-extra">
+var screenReaderText = {"expand":"expandir submenu","collapse":"fechar submenu"};
+</script>
+<script src="./fundo_files/functions.js.download" id="twentysixteen-script-js"></script>
+<script src="./fundo_files/e-202517.js.download" id="jetpack-stats-js" data-wp-strategy="defer"></script>
+<script id="jetpack-stats-js-after">
+_stq = window._stq || [];
+_stq.push([ "view", JSON.parse("{\"v\":\"ext\",\"blog\":\"155123231\",\"post\":\"29866\",\"tz\":\"-3\",\"srv\":\"monkeybuzz.com.br\",\"j\":\"1:13.6\"}") ]);
+_stq.push([ "clickTrackerInit", "155123231", "29866" ]);
+</script><img src="./fundo_files/g.gif" alt="" width="6" height="5" id="wpstats">
+	<script type="text/javascript">
+		var elm_button_vars = { wrapper: '.archive-grid' };
+	</script>
+	<script></script>
+
+
+
+
+</body></html>
