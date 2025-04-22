@@ -48,4 +48,9 @@ body {
 }
 .botao:hover {
   background-color: #c71585;
+}blockquote {
+  margin-top: 40px;
+  font-style: italic;
+  font-size: 1.2em;
+  color: #ffe4e1;
 }
